@@ -56,5 +56,7 @@ public class JDBCCon {
 /*
    for create update and delete  --->  stm.executeUpdate()
    and fro select/read  --> stm.executeQuery()
+   
+   JDBC is a Specification defined by Java vendors & implemented by DB vendors
 
 */
